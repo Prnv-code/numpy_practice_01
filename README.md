@@ -51,19 +51,6 @@ The goal of this project was to build a strong foundation in NumPy by working wi
 
 ---
 
-## Repository Structure
-
-```text
-.
-├── Arrays.ipynb
-├── array_operations.ipynb
-├── array_indexing.ipynb
-├── exercise.ipynb
-└── README.md
-```
-
----
-
 ## Learning Outcomes
 
 Through this project, I learned:
